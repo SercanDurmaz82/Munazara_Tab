@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1119</width>
+    <height>887</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1121</width>
+     <height>891</height>
+    </rect>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>1121</width>
+     <height>891</height>
+    </size>
+   </property>
+   <column>
+    <property name="text">
+     <string>Üni</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Takım İsmi</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Birinci Konuşmacı</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>İkinci Konuşmacı</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Takım Puanı</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Bir. Kon. P.</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>İki. Kon. P.</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

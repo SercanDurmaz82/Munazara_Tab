@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>997</width>
+    <height>680</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1920</width>
+     <height>1080</height>
+    </rect>
+   </property>
+   <column>
+    <property name="text">
+     <string>Salon</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>HA</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>MA</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>HK</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>MK</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Juri</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QPushButton" name="Kaydet">
+   <property name="geometry">
+    <rect>
+     <x>890</x>
+     <y>620</y>
+     <width>101</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Kaydet</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
